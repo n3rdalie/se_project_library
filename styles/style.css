@@ -270,9 +270,9 @@ ul {
 
 .staff__card_card__content {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   max-width: 760px;
-  flex-wrap: wrap;
   gap: 40px;
   list-style-type: none;
   margin: auto;
