@@ -176,6 +176,10 @@ ul {
   text-decoration: none;
 }
 
+.events__more:hover {
+  color: #1f69c9;
+}
+
 .events__cover {
   position: relative;
   flex-grow: 1;
