@@ -64,7 +64,7 @@
 .header__image {
   position: absolute;
   max-width: 636px;
-  bottom: 135px;
+  top: 135px;
   right: 20px;
 }
 
