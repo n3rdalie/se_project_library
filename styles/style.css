@@ -62,7 +62,6 @@
 }
 
 .header__image {
-  z-index: 1;
   position: absolute;
   max-width: 636px;
   bottom: 135px;
